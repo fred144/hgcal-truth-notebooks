@@ -1,5 +1,11 @@
 # HGCAL truth tutorial notebooks
 
+### PHYS 165 Final Project, Fall 2021
+
+This package and some of its features were used for this project.
+Credit to https://github.com/tklijnsma.
+
+
 This repo requires python 3.
 
 First setup a virtual environment:
