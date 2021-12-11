@@ -5,7 +5,12 @@
 This package and some of its features were used for this project.
 Credit to https://github.com/tklijnsma.
 
+### Update 
+Project has changed and migrated to.
+https://github.com/fred144/hgcal-py-analysis
 
+
+__________________________________________________________
 This repo requires python 3.
 
 First setup a virtual environment:
